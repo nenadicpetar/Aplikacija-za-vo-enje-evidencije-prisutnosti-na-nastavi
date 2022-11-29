@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context=".ui.activity.BroadcastActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/edt_to_user_broadcast_dean"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Primatelj"
+/>
+
+    <EditText android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:hint="Naslov"
+              android:inputType="text"
+              android:id="@+id/edt_title_user_broadcast_dean"
+    />
+
+    <EditText android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:hint="Poruka"
+              android:inputType="textLongMessage"
+              android:id="@+id/edt_message_user_broadcast_dean"
+    />
+
+
+
+    </LinearLayout>
+
+    <Button android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/bt_broadcast_dean"
+            android:text="Šalji"
+            android:layout_alignParentBottom="true"
+    />
+
+</RelativeLayout>

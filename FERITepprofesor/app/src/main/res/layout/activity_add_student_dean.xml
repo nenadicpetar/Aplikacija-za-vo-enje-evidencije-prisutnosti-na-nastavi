@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/side_nav_bar"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".ui.activity.AddStudentDeanActivity">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/logotran" />
+
+    <EditText
+        android:id="@+id/edt_mkpt_add_student_dean"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+              android:hint="mkpt-0000"
+    />
+
+    <EditText android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/edt_name_add_student_dean"
+              android:hint="Ime i prezime"
+    />
+
+    <Spinner android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/spinner_major_add_student_dean"
+    />
+
+</LinearLayout>

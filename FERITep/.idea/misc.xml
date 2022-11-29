@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/activity_about.xml" value="0.13272543059777103" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/activity_change_password.xml" value="0.33" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/activity_choose_subject.xml" value="0.33" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/activity_create_password.xml" value="0.25" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/activity_forget_password.xml" value="0.33" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/activity_my_account.xml" value="0.33" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/activity_new_password.xml" value="0.33" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/activity_noti_detail.xml" value="0.33" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/activity_notification.xml" value="0.33" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/activity_pin.xml" value="0.33" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/activity_qrscan.xml" value="0.5" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/activity_rules.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/activity_signup.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/activity_splash_screen.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/activity_start.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/activity_subject_detail.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/activity_update_my_info.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/app_bar_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/content_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/fragment_check_in.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/fragment_dashboard.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/fragment_medical_leave.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/nav_header_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/progress_bar_layout.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/settings_activity.xml" value="0.271875" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/subject_detail_listview_row.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/subject_progress_recycler_row.xml" value="0.25" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/layout/view_noti_row_item.xml" value="0.33" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/menu/activity_main_drawer.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/menu/main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/menu/menu_update_my_info.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/FERITep/FERITep/app/src/main/res/menu/my_acc_menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/diplomski novo/FERITep/FERITep/app/src/main/res/layout/activity_rules.xml" value="0.13272543059777103" />
+        <entry key="..\:/Diplomski/diplomski novo/FERITep/FERITep/app/src/main/res/layout/activity_splash_screen.xml" value="0.13272543059777103" />
+        <entry key="..\:/Diplomski/diplomski novo/FERITep/FERITep/app/src/main/res/layout/activity_subject_detail.xml" value="0.33" />
+        <entry key="..\:/Diplomski/diplomski novo/FERITep/FERITep/app/src/main/res/layout/app_bar_main.xml" value="0.13272543059777103" />
+        <entry key="..\:/Diplomski/diplomski novo/FERITep/FERITep/app/src/main/res/layout/content_main.xml" value="0.13272543059777103" />
+        <entry key="..\:/Diplomski/diplomski novo/FERITep/FERITep/app/src/main/res/layout/fragment_dashboard.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/diplomski novo/FERITep/FERITep/app/src/main/res/layout/nav_header_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/diplomski novo/FERITep/FERITep/app/src/main/res/layout/progress_bar_layout.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/diplomski novo/FERITep/FERITep/app/src/main/res/layout/subject_detail_listview_row.xml" value="0.27291666666666664" />
+        <entry key="..\:/Diplomski/diplomski novo/FERITep/FERITep/app/src/main/res/layout/subject_progress_recycler_row.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

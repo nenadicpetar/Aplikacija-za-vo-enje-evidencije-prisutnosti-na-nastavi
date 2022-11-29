@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">FERITep</string>
+    <string name="qrscan">qrscan</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_title">Petar</string>
+    <string name="nav_header_subtitle">mkpt - 5555</string>
+    <string name="nav_header_desc">Zaglavlje</string>
+
+    <string name="menu_dashboard">Kontrolna ploča</string>
+    <string name="menu_check_in">Vaša lokacija</string>
+    <string name="menu_medical_leave">Ispričnica</string>
+    <string name="menu_settings">Promijenite lozinku</string>
+    <string name="menu_logout">Odjavite se</string>
+
+    <string name="action_settings">Promijenite lozinku</string>
+    <string name="action_noti">Obavijest</string>
+    <string name="action_about">O…</string>
+    <string name="action_my_acc">Moj račun</string>
+
+    <string name="menu_my_acc_edit">Promijenite</string>
+
+    <string name="datum">1/1/2022</string>
+    <string name="datum2">Siječanj 1., 2022</string>
+    <string name="dan">Ponedjeljak</string>
+    <string name="sat">9:55</string>
+    <string name="datum3">1. siječnja 2022</string>
+    <string name="adresa">213, Vinjani Gornji, Imotski, Dalmacija</string>
+    <string name="adresa_naslov">Adresa</string>
+    <string name="email">student@ferit.hr</string>
+    <string name="broj_telefona">959797649849</string>
+    <string name="ime">Ime</string>
+    <string name="telefon">Telefon</string>
+    <string name="email_rand">Email</string>
+
+    <string name="myPref">MyPreferences</string>
+    <string name="mySignUpPref">MySignUpPreferences</string>
+
+    <string name="prefName">ime</string>
+    <string name="prefMajor">izborni blok</string>
+    <string name="prefSubject">kolegij</string>
+    <string name="prefPhone">telefon</string>
+    <string name="prefEmail">e-mail</string>
+    <string name="prefAddress">adresa</string>
+    <string name="prefPassword">lozinka</string>
+    <string name="prefProfileurl">profileurl</string>
+    <string name="prefMkpt">mkpt</string>
+    <string name="prefLat">Lokacija širina:</string>
+    <string name="prefLon">Lokacija dužina:</string>
+
+    <string name="KEMajor">Računalno inženjerstvo</string>
+    <string name="SEMajor">Robotika i umjetna inteligencija</string>
+    <string name="HPCMajor">Programsko inženjerstvo</string>
+    <string name="BISMajor">Informacijske i podatkovne znanosti</string>
+
+    <string name="google_map_myapi">AIzaSyCnxO_ruaP9TcoALjdcry97xHgmQQv-L8M</string>
+
+    <string name="confirm_done">GOTOVO</string>
+    <string name="naziv_projekta">Sustav za evidenciju prisutnosti na nastavi</string>
+    <string name="broj_verzije">Verzija 1.0</string>
+    <string name="kontakt">Kontakt</string>
+    <string name="autor">Izradio: Petar Nenadić</string>
+    <string name="copyright">Copyright© 2022 All Rights Reserved</string>
+    <string name="forget_password">Zaboravili ste lozinku?</string>
+    <string name="no_account">Nemate račun? Pridružite nam se.</string>
+    <string name="login">Prijavite se</string>
+    <string name="mkpt_default">mkpt - 0000</string>
+    <string name="welcome_text">Prijavite se sa svojim korisničkim imenom i\n lozinkom da biste vidjeli napredak
+    </string>
+    <string name="welcome">Dobrodošli</string>
+    <string name="available_courses">Dostupni kolegiji za ovaj semestar</string>
+    <string name="choose_course">Odaberite kolegij</string>
+    <string name="cont_inue">Nastavi</string>
+    <string name="create_password">Stvori lozinku</string>
+    <string name="FERIT_naslov">Fakultet elektrotehnike, računarstva i informacijskih tehnologija, Osijek</string>
+    <string name="qr_logo">qrLogo</string>
+
+</resources>

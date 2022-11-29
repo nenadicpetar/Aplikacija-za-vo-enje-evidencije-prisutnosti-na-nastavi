@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/activity_login_root_view"
+        tools:context=".SignupActivity">
+
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/side_nav_bar"
+                android:layout_alignParentTop="true"
+                android:contentDescription="TODO"
+                tools:ignore="ImageContrastCheck"
+        />
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:id="@+id/login_welcome_text_view"
+                android:textStyle="bold"
+                android:paddingTop="20dp"
+                android:textSize="23sp"
+                android:textColor="#E3D3E4"
+                android:text="Stvorite račun"
+        />
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/login_welcome_text_view"
+                android:layout_centerHorizontal="true"
+                android:id="@+id/login_subtitle"
+                android:paddingTop="10dp"
+                android:layout_marginLeft="5dp"
+                android:gravity="center"
+                android:layout_marginRight="5dp"
+                android:text="Da bi stvorili račun, ispunite sva navedena polja ispod"
+                android:textColor="#E3D3E4"/>
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="20dp"
+                android:paddingRight="15dp"
+                android:paddingLeft="15dp"
+                android:paddingBottom="10dp"
+                android:layout_margin="5dp"
+                android:layout_below="@+id/login_subtitle"
+        >
+            <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="mkpt-0000"
+                    android:textSize="16sp"
+                    android:maxLength="10"
+                    android:inputType="text"
+                    android:maxLines="1"
+                    android:lines="1"
+                    android:id="@+id/signup_edt_mkpt"
+                    android:layout_marginBottom="15dp"
+                    android:paddingBottom="10dp"
+                    android:minHeight="48dp"
+                    android:textColor="#E3D3E4"
+                    tools:ignore="TextContrastCheck"/>
+
+            <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/ime"
+                    android:textSize="16sp"
+                    android:maxLength="30"
+                    android:maxLines="1"
+                    android:lines="1"
+                    android:textColor="#E3D3E4"
+                    android:inputType="text"
+                    android:id="@+id/signup_edt_name"
+                    android:layout_marginBottom="15dp"
+                    android:paddingBottom="10dp"
+                    android:minHeight="48dp"
+                    tools:ignore="TextContrastCheck"/>
+
+            <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/telefon"
+                    android:textSize="16sp"
+                    android:maxLength="12"
+                    android:inputType="phone"
+                    android:maxLines="1"
+                    android:textColor="#E3D3E4"
+                    android:id="@+id/signup_edt_phone"
+                    android:lines="1"
+                    android:layout_marginBottom="15dp"
+                    android:paddingBottom="10dp"
+                    android:minHeight="48dp"
+                    tools:ignore="TextContrastCheck"
+            />
+
+            <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/email_rand"
+                    android:textSize="16sp"
+                    android:maxLength="30"
+                    android:inputType="textEmailAddress"
+                    android:maxLines="1"
+                    android:textColor="#E3D3E4"
+                    android:id="@+id/signup_edt_email"
+                    android:lines="1"
+                    android:layout_marginBottom="15dp"
+                    android:paddingBottom="10dp"
+                    android:minHeight="48dp"
+                    tools:ignore="TextContrastCheck"
+            />
+
+            <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/adresa_naslov"
+                    android:textSize="16sp"
+                    android:id="@+id/signup_edt_addr"
+                    android:maxLength="150"
+                    android:maxLines="1"
+                    android:textColor="#E3D3E4"
+                    android:lines="1"
+                    android:layout_marginBottom="15dp"
+                    android:paddingBottom="10dp"
+                    android:minHeight="48dp"
+                    android:inputType="text"
+                    tools:ignore="TextContrastCheck"
+            />
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Stvaranjem računa, slažete se s uvjetima korištenja."
+                    android:gravity="center"
+                    android:textSize="12sp"
+                    android:textStyle="italic"
+                    android:textColor="#E3D3E4"
+            />
+
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/signup_bt_signup"
+                    android:paddingLeft="10dp"
+                    android:paddingBottom="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:paddingRight="10dp"
+                    android:textColor="#000"
+                    android:text="Stvori račun"
+            />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <androidx.appcompat.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:id="@+id/signup_customized_toolbar"
+            app:layout_collapseMode="none"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+    >
+
+    </androidx.appcompat.widget.Toolbar>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
